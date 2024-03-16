@@ -1,0 +1,317 @@
+{
+    "total": [
+        {
+            "id": "1650187001",
+            "count": 1
+        },
+        {
+            "id": "100029797788155",
+            "count": 0
+        },
+        {
+            "id": "100048967010592",
+            "count": 0
+        },
+        {
+            "id": "100050586843001",
+            "count": 0
+        },
+        {
+            "id": "100054521466116",
+            "count": 0
+        },
+        {
+            "id": "100056812009699",
+            "count": 0
+        },
+        {
+            "id": "100058211572505",
+            "count": 0
+        },
+        {
+            "id": "100058663188913",
+            "count": 0
+        },
+        {
+            "id": "100075863781789",
+            "count": 191
+        },
+        {
+            "id": "100076075253125",
+            "count": 0
+        },
+        {
+            "id": "100079083234493",
+            "count": 0
+        },
+        {
+            "id": "100080717635867",
+            "count": 0
+        },
+        {
+            "id": "100083305091521",
+            "count": 6
+        },
+        {
+            "id": "100083667387150",
+            "count": 0
+        },
+        {
+            "id": "100083924779631",
+            "count": 0
+        },
+        {
+            "id": "100084794796348",
+            "count": 150
+        },
+        {
+            "id": "100086191843054",
+            "count": 0
+        },
+        {
+            "id": "100086457161256",
+            "count": 0
+        },
+        {
+            "id": "100086960117197",
+            "count": 0
+        },
+        {
+            "id": "100087027960947",
+            "count": 0
+        },
+        {
+            "id": "100087296206531",
+            "count": 0
+        },
+        {
+            "id": "100088365841148",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "1650187001",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100029797788155",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100048967010592",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100050586843001",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100054521466116",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100056812009699",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100058211572505",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100058663188913",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 0,
+            "name": "Ngọc Nguyên"
+        },
+        {
+            "id": "100076075253125",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079083234493",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080717635867",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083305091521",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083667387150",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083924779631",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084794796348",
+            "count": 0,
+            "name": "Đào Ngọc Nguyên"
+        },
+        {
+            "id": "100086191843054",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086457161256",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086960117197",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087027960947",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087296206531",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088365841148",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "1650187001",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100029797788155",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100048967010592",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100050586843001",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100054521466116",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100056812009699",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100058211572505",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100058663188913",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 0,
+            "name": "Ngọc Nguyên"
+        },
+        {
+            "id": "100076075253125",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079083234493",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080717635867",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083305091521",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083667387150",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083924779631",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084794796348",
+            "count": 0,
+            "name": "Đào Ngọc Nguyên"
+        },
+        {
+            "id": "100086191843054",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086457161256",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086960117197",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087027960947",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087296206531",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088365841148",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 6
+}

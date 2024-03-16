@@ -1,0 +1,289 @@
+{
+    "total": [
+        {
+            "id": "642080877",
+            "count": 26
+        },
+        {
+            "id": "100018077667073",
+            "count": 0
+        },
+        {
+            "id": "100043726804611",
+            "count": 15
+        },
+        {
+            "id": "100050010218348",
+            "count": 12
+        },
+        {
+            "id": "100052836334665",
+            "count": 0
+        },
+        {
+            "id": "100056775617898",
+            "count": 1
+        },
+        {
+            "id": "100061883144653",
+            "count": 35
+        },
+        {
+            "id": "100075885595966",
+            "count": 74
+        },
+        {
+            "id": "100081968694759",
+            "count": 8
+        },
+        {
+            "id": "100084112957730",
+            "count": 0
+        },
+        {
+            "id": "100084794796348",
+            "count": 109
+        },
+        {
+            "id": "100085820563749",
+            "count": 0
+        },
+        {
+            "id": "100089042416560",
+            "count": 50
+        },
+        {
+            "id": "100091573114252",
+            "count": 15
+        },
+        {
+            "id": "100091901065193",
+            "count": 30
+        },
+        {
+            "id": "100083339681393",
+            "count": 108
+        },
+        {
+            "id": "100047921213182",
+            "count": 91
+        },
+        {
+            "id": "1528770791",
+            "count": 23
+        },
+        {
+            "id": "100089865717523",
+            "count": 4
+        },
+        {
+            "id": "100075863781789",
+            "count": 55
+        }
+    ],
+    "week": [
+        {
+            "id": "642080877",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100018077667073",
+            "count": 0,
+            "name": "Ng Hạnhh"
+        },
+        {
+            "id": "100043726804611",
+            "count": 0,
+            "name": "Hiếu Love"
+        },
+        {
+            "id": "100050010218348",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052836334665",
+            "count": 0,
+            "name": "Nguyễn Khánh Huyền"
+        },
+        {
+            "id": "100056775617898",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100061883144653",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075885595966",
+            "count": 0,
+            "name": "Câụ Chủ Nhỏ"
+        },
+        {
+            "id": "100081968694759",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084112957730",
+            "count": 0,
+            "name": "Vũ Tư Phượng"
+        },
+        {
+            "id": "100084794796348",
+            "count": 0,
+            "name": "Đào Ngọc Nguyên"
+        },
+        {
+            "id": "100085820563749",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089042416560",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100091573114252",
+            "count": 0,
+            "name": "ʚAlkay Híuɞ"
+        },
+        {
+            "id": "100091901065193",
+            "count": 0,
+            "name": "Trung Hiếu"
+        },
+        {
+            "id": "100083339681393",
+            "count": 0,
+            "name": "Trần My"
+        },
+        {
+            "id": "100047921213182",
+            "count": 2,
+            "name": "Híu Hắc Lỏ"
+        },
+        {
+            "id": "1528770791",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089865717523",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 1,
+            "name": "Ngọc Nguyên"
+        }
+    ],
+    "day": [
+        {
+            "id": "642080877",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100018077667073",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100043726804611",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100050010218348",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052836334665",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100056775617898",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100061883144653",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075885595966",
+            "count": 0,
+            "name": "Câụ Chủ Nhỏ"
+        },
+        {
+            "id": "100081968694759",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084112957730",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084794796348",
+            "count": 0,
+            "name": "Đào Ngọc Nguyên"
+        },
+        {
+            "id": "100085820563749",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089042416560",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100091573114252",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100091901065193",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083339681393",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100047921213182",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "1528770791",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100089865717523",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 0,
+            "name": "Ngọc Nguyên"
+        }
+    ],
+    "time": 6
+}

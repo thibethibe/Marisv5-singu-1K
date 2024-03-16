@@ -1,0 +1,135 @@
+{
+    "total": [
+        {
+            "id": "100023669611915",
+            "count": 0
+        },
+        {
+            "id": "100042278832251",
+            "count": 0
+        },
+        {
+            "id": "100048299707088",
+            "count": 0
+        },
+        {
+            "id": "100069929415344",
+            "count": 0
+        },
+        {
+            "id": "100070681521094",
+            "count": 0
+        },
+        {
+            "id": "100072241556061",
+            "count": 0
+        },
+        {
+            "id": "100073623625134",
+            "count": 0
+        },
+        {
+            "id": "100075863781789",
+            "count": 67
+        },
+        {
+            "id": "100086969850496",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100023669611915",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100042278832251",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100048299707088",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100069929415344",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100070681521094",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100072241556061",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073623625134",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 0,
+            "name": "Ngọc Nguyên"
+        },
+        {
+            "id": "100086969850496",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100023669611915",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100042278832251",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100048299707088",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100069929415344",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100070681521094",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100072241556061",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073623625134",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 0,
+            "name": "Ngọc Nguyên"
+        },
+        {
+            "id": "100086969850496",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 6
+}

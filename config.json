@@ -1,0 +1,209 @@
+{
+    "111": {
+        "cooldownTime": 1200000
+    },
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "🍓"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": false,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "BOTNAME": " 𝙝𝙪̛̃𝙪 𝙩𝙝𝙖̆́𝙣𝙜 ",
+    "AMDIN_NAME": "SINGU-💌💌",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/tddzs1tg06",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100074293234284",
+        "100091250266334",
+        "61557230453242",
+        "61556595972830",
+        "100074293234284"
+    ],
+    "NDH": [
+        "100074293234284",
+        "61557230453242",
+        "61556595972830",
+        "100091250266334",
+        "100074293234284"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "delayUnsend": 30
+    },
+    "log": {
+        "enable": true
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 5000000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "spamcmt": {
+        "spamDelay": 1.5
+    },
+    "test": {
+        "spamDelay": 1.5
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "bank": {
+        "APIKEY": "chinhdz"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "cavev2": {
+        "cooldownTime": 60
+    },
+    "diemdanh": {
+        "cooldownTime": 300
+    },
+    "duaxe": {
+        "key": "cuongngu"
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "huongdan": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "mirai": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "nganhang": {
+        "key": "DUBFREE"
+    },
+    "nhanluot": {
+        "cooldownTime": 21600000,
+        "rewardCoin": 10000
+    },
+    "nhantien": {
+        "cooldownTime": 43200000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyCe-hCIuTwonZ9fD2BG7dvU5eMoHWSaOGE",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "tenngaunhien": {
+        "APIKEY": "mi451266190"
+    },
+    "tx": {
+        "timeout": 3000,
+        "core": 3,
+        "api_key": "JrT_Rosie_4100115343"
+    },
+    "wcauca": {
+        "cooldownTime": 30000
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "workfish": {
+        "cooldownTime": 30000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "sendNoti": true
+    },
+    "god": {
+        "enable": true
+    }
+}

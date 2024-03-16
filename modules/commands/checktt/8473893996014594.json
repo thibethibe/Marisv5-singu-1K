@@ -1,0 +1,51 @@
+{
+    "total": [
+        {
+            "id": "100065469883699",
+            "count": 97
+        },
+        {
+            "id": "100074807394594",
+            "count": 37
+        },
+        {
+            "id": "100075863781789",
+            "count": 915
+        }
+    ],
+    "week": [
+        {
+            "id": "100065469883699",
+            "count": 0,
+            "name": "Trần Diệu Quang"
+        },
+        {
+            "id": "100074807394594",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 0,
+            "name": "Ngọc Nguyên"
+        }
+    ],
+    "day": [
+        {
+            "id": "100065469883699",
+            "count": 0,
+            "name": "Trần Diệu Quang"
+        },
+        {
+            "id": "100074807394594",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075863781789",
+            "count": 0,
+            "name": "Ngọc Nguyên"
+        }
+    ],
+    "time": 6
+}

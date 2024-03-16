@@ -1,0 +1,49 @@
+{
+    "100089143026133": [
+        {
+            "type": "message",
+            "name": "Peter Wanjohi",
+            "message": "",
+            "time": "05/02/2024 14:20:29",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=fc3f23&_nc_ohc=cPeWHwk49IUAX9_ewTK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfBBWm1fHarzhG99UhHPBWSlYbJBhbuxZkNV20Q0sEpV3A&oe=65C51FCB",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        }
+    ],
+    "61555888225858": [
+        {
+            "type": "message",
+            "name": "Singu Bot",
+            "message": "[⚜️] Thông báo từ ADMINBOT [⚜️]\n\n[⚜️]➜ Nội dung: Tôi rất vui khi chạy bot cùng mọi người, chúc mọi người nhiều sức khỏe (I'm very happy to run the bot with everyone, I wish everyone good health)\n[⚜️]➜ Gửi đến từ Admin: Singu　Hạnh　Phúc　Có　Thể　Bỏ　Rơi Anh　Mà　Đi　Thật　Xa\n[⚜️]➜ TIME: 05/02/2024 || 15:29:33",
+            "time": "05/02/2024 15:29:48",
+            "attachment": []
+        }
+    ],
+    "100062426121890": [
+        {
+            "type": "message",
+            "name": "Britt Ried",
+            "message": "Game",
+            "time": "05/02/2024 15:32:32",
+            "attachment": []
+        }
+    ]
+}
